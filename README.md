@@ -1,13 +1,10 @@
 # algorithms-and-data-structures
-self-written notes
+-> self-written notes
 
-#table of contents
-1: GRAPH
-
-a) graph data structure
-b) graph traversal
-c) applications
-
-2:
-3:
-4:
+## table of contents
+  1. GRAPH
+     - graph data structure
+     - graph traversal
+     - 
+	2.
+  3.
