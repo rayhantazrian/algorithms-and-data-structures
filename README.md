@@ -5,4 +5,8 @@ self-written notes
 1: GRAPH
 a) graph data structure
 b) graph traversal
-c) 
+c) applications
+
+2:
+3:
+4:
