@@ -1,0 +1,9 @@
+1. Introduction to Graphs
+  A. structure
+  B. directed, undirected,weighted,unweighted
+  C. representing graphs: adjacency matrix, adjacency list
+2. Graph Traversal Algorithms
+  A. the idea
+  B. Breadth-First Search (BFS)
+  C. Depth-First Search (DFS)
+  D. applications
